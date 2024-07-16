@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>web/icon/social/medium/facebook</title>
+    <g id="Symbols-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web/navigation/footer-simple-compact" transform="translate(-267.000000, -118.000000)" fill="#FFFFFF">
+            <g id="Group-3" transform="translate(39.999666, 59.228818)">
+                <g id="Icons" transform="translate(224.000334, 55.771182)">
+                    <g id="Facebook" transform="translate(3.000000, 3.000000)">
+                        <path d="M23.5625,0 L2.4375,0 C1.096875,0 0,1.096875 0,2.4375 L0,23.5625 C0,24.903125 1.096875,26 2.4375,26 L13,26 L13,14.625 L9.75,14.625 L9.75,11.375 L13,11.375 L13,9.75 C13,7.063875 15.188875,4.875 17.875,4.875 L21.125,4.875 L21.125,8.125 L17.875,8.125 C16.98125,8.125 16.25,8.85625 16.25,9.75 L16.25,11.375 L21.125,11.375 L20.3125,14.625 L16.25,14.625 L16.25,26 L23.5625,26 C24.903125,26 26,24.903125 26,23.5625 L26,2.4375 C26,1.096875 24.903125,0 23.5625,0 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
