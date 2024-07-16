@@ -368,4 +368,5 @@ padding-left: 40px;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
+    gap:20px;
   }
